@@ -1,0 +1,73 @@
+baseURL = 'https://aabolfazl.github.io/'
+languageCode = 'en-us'
+title = 'An Inspired Engineer'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+description = "An inspired Software Engineer interested in systems programming, OS internals, and concurrency, with experience and passionate about building efficient system-level solutions in kernel development and networking. Currently focused on developing load balancing and Kademlia DHT distributed systems to deepen expertise in systems programming and networking."
+googleAnalytics = "G-404S61YEQD"
+
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+homeIntroTitle = 'Hey, I’m Abolfazl!'
+homeIntroContent = """
+An inspired Software Engineer interested in systems programming, OS internals, and concurrency, 
+with experience and passionate about building efficient system-level solutions in kernel development and networking. 
+I'm focusing on building efficient system-level solutions, load balancing, and developing distributed systems like Kademlia DHT.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Blog'
+homeCollection = 'posts'
+
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2 Jan 2006'
+
+breadcrumbs = true
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/aabolfazl"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/aabolfazl"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/_AbolfazlAbbasi"
+
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "blog"
+url = "/posts"
+
+[[params.menu]]
+name = "now"
+url = "/now"
+
+[[params.menu]]
+name = "reading list"
+url = "/reading-list"
+
+[markup]
+[markup.highlight]
+style = 'algol'
+
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"

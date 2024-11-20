@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/concurrency/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux-networking/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/load-balancer/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vortex/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/vortex/</loc>
+    <lastmod>2024-11-20T14:33:19+03:00</lastmod>
+  </url>
+</urlset>

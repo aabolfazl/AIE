@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on An Inspired Engineer</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on An Inspired Engineer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2024 14:33:19 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vortex: A Load-Balancing in C&#43;&#43; using IO_URING, Introduction</title>
+      <link>http://localhost:1313/posts/vortex/</link>
+      <pubDate>Wed, 20 Nov 2024 14:33:19 +0300</pubDate>
+      <guid>http://localhost:1313/posts/vortex/</guid>
+      <description>&lt;h2 class=&#34;heading&#34; id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Vortex is a learning-focused project that explores &lt;strong&gt;Linux Networking&lt;/strong&gt; and &lt;strong&gt;Concurrency&lt;/strong&gt; in C++. The goal of the project is to build a proficient &lt;strong&gt;load-balancing web server&lt;/strong&gt; to understand the complexities of networking at the OS level.&lt;/p&gt;&#xA;&lt;p&gt;In this posts series, I’ll walk you through the architecture of Vortex, how it handles load balancing, and some of the key challenges I faced while implementing the solution in C++ and Linux Networking.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
