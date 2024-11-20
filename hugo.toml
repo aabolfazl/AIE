@@ -44,7 +44,7 @@ name = "github"
 url = "https://github.com/aabolfazl"
 
 [[params.social]]
-name = "twitter"
+name = "X"
 url = "https://twitter.com/_AbolfazlAbbasi"
 
 [[params.menu]]
