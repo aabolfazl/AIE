@@ -1,4 +1,4 @@
-baseURL = 'aieideas.com'
+baseURL = 'https://aieideas.com/'
 languageCode = 'en-us'
 title = 'An Inspired Engineer'
 theme = 'typo'
