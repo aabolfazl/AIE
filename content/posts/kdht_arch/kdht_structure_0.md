@@ -10,8 +10,6 @@ showTags=true
 
 This post details the layered architecture of Kdht, breaking down the key components and their responsibilities. if you don't familar with Kdht, Kdht is a Kademlia-based distributed hash table (DHT) written in Rust. The architecture is designed to be modular, scalable, and maintainable, allowing for easy extensibility and testing.
 
-![Kdht Architecture](/images/arch_post/kdht_arch.png "Kdht Architecture")
-
 ### 1. Communication Layer
 
 The communication layer handles all low-level networking operations using TCP/UDP sockets. Its core responsibilities include:
