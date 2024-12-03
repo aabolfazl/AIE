@@ -1,17 +1,16 @@
 +++
-date = '2024-12-03T13:40:17+03:00'
+date = '2024-12-03T19:40:17+03:00'
 draft = false
 title = '1 - Architecrue of Kdht: A Kademlia DHT in Rust'
 tags = ["kdht", "rust", "distributed_systems", "dht"]
 showTags=true
-pinned = true
 +++
 
 ## Architecture Overview
 
-This post details the layered architecture of Kdht, breaking down the key components and their responsibilities.
+This post details the layered architecture of Kdht, breaking down the key components and their responsibilities. if you don't familar with Kdht, Kdht is a Kademlia-based distributed hash table (DHT) written in Rust. The architecture is designed to be modular, scalable, and maintainable, allowing for easy extensibility and testing.
 
-![Kdht Architecture](../../assets/images/wefeermveprfv.png){ width=250px height=250px }
+![Kdht Architecture](/images/arch_post/kdht_arch.png)
 
 ### 1. Communication Layer
 
